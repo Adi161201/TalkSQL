@@ -1,0 +1,13 @@
+prefix=D:/Generative-AI/Text-to-SQL/venv/Library
+exec_prefix=D:/Generative-AI/Text-to-SQL/venv/Library
+libdir=D:/Generative-AI/Text-to-SQL/venv/Library/lib
+sharedlibdir=D:/Generative-AI/Text-to-SQL/venv/Library/lib
+includedir=D:/Generative-AI/Text-to-SQL/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

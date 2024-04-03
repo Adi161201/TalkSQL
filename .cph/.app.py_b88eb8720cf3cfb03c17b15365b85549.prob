@@ -1,0 +1,1 @@
+{"name":"Local: app","url":"d:\\Generative-AI\\Text-to-SQL\\app.py","tests":[{"id":1712166069261,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Generative-AI\\Text-to-SQL\\app.py","group":"local","local":true}
